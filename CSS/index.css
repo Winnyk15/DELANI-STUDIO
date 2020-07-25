@@ -125,3 +125,27 @@ body {
     opacity: 1;
     filter: alpha(opacity=50); 
   }
+  #pro5:hover {
+    opacity: 0.5;
+    filter: alpha(opacity=100); 
+  }
+
+  #pro6 {
+    opacity: 1;
+    filter: alpha(opacity=50); 
+  }
+  
+  #pro6:hover {
+    opacity: 0.5;
+    filter: alpha(opacity=100); 
+  }
+
+  #pro7 {
+    opacity: 1;
+    filter: alpha(opacity=50); 
+  }
+  
+  #pro7:hover {
+    opacity: 0.5;
+    filter: alpha(opacity=100); 
+  }
