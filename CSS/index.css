@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0 ;
+}
+body {
+    box-sizing: border-box;
+    font-family: "Lato", sans-serif;
+  }
+  .mouse{
+      margin-top:10vh;
+  }
+.home{
+    background-image: url("../IP3/assets/backgrounds/h_img.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.my_container{
+    margin-top: 30vh;
+    position: absolute;
+    left: 25vh;
+    color: white;
+}
+
+.services{
+    background-image: url("../IP3/assets/backgrounds/s_image.jpg");
+    background-color: rgba(0,0,0,0.8);
+    height: 50vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
