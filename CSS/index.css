@@ -46,3 +46,15 @@ body {
     width: 250px;
     padding-top: 10px;
 }
+
+.contact-section{
+    margin-top: 10vh;
+    background-image: url("../IP3/assets/backgrounds/c_image.jpg");
+    height: 100vh;
+    position: relative;
+}
+.lecont {
+    position: absolute;
+    left: 25vh;
+    top: 10vh;
+}
