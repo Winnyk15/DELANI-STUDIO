@@ -154,7 +154,7 @@ body {
       filter: alpha(opacity=50);
   }
 
-  #pro8: :hover {
+  #pro8:hover {
       opacity: 0.5;
       filter: alpha(opacity=100);
   }
