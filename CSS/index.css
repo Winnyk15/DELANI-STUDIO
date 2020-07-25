@@ -80,3 +80,18 @@ body {
     display: none ;
 }
 
+#pro1 {
+    opacity: 1;
+    filter: alpha(opacity=50);
+}
+
+#pro1:hover {
+    opacity: 0.5;
+    filter: alpha(opacity=100);
+}
+
+#pro2 {
+    opacity: 1;
+    filter: alpha(opacity=50);
+}
+
