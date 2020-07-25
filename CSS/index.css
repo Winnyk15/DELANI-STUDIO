@@ -58,3 +58,25 @@ body {
     left: 25vh;
     top: 10vh;
 }
+.texts{
+    background: rgba(0, 0, 0, 0.8)
+}
+.pic{
+    margin-top: 10vh;
+}
+.icons-section{
+    margin-top: 10vh;
+}
+.iconrow{
+    margin-left: 10vh;
+}
+.designtxt{
+    display: none ;
+}
+.devtxt{
+    display: none ;
+}
+.prodtxt{
+    display: none ;
+}
+
