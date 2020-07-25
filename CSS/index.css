@@ -30,3 +30,19 @@ body {
     background-repeat: no-repeat;
     position: relative;
 }
+
+.mycont {
+    position: absolute;
+    color: white;
+    left: 25vh;
+    top: 10vh;
+
+
+}
+.portfolio{
+    margin-top: 20vh;
+}
+.portfolio img{
+    width: 250px;
+    padding-top: 10px;
+}
