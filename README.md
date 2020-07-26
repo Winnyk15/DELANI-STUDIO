@@ -1,7 +1,6 @@
 # DELANI STUDIO
-#### Brief description of application
+#### The purpose of recreating this website is to hone my bootstrap and jquery skills.
 #### By Winnie Kahendah
-## Description
 ## Setup/Installation Requirements
 * Ubuntu OS
 * Git & github
